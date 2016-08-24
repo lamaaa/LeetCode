@@ -35,7 +35,7 @@ public:
     }
 };
 
-// my solution
+// My solution
 class Solution {
 public:
     // 删除字符串的所有指定字符
