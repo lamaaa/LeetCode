@@ -1,5 +1,5 @@
 # LeetCode Note
-This is my LeetCode Note.And every files contain its cpp file which is the solution of the question.Every cpp file contains three parts.
+This is my LeetCode Notes.And every file contain its cpp file which is the solution of the question.Every cpp file contains three parts.
 
 ### First Part -- Qustion
 This part is the description of Question
